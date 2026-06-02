@@ -15,7 +15,8 @@ This repository contains my Salesforce learning notes, Trailhead progress, and h
 Coming Soon
 
 ## Notes
-Coming Soon
-
+- [Salesforce Fundamentals](salesforce-fundamentals.md)
+- [User Management](user-management.md)
+  
 ## Projects
 Coming Soon
