@@ -20,6 +20,7 @@ Coming Soon
 - [User Management](user-management.md)
 - [Security & Access](security-access.md)
 - [Reports & Dashboards](reports-dashboards.md)
+- [Data Management](data-management.md)
   
 ## Projects
 Coming Soon
