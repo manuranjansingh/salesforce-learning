@@ -26,6 +26,7 @@ Coming Soon
 - [Organization & Company Settings](organization-company-settings.md)
 - [Approval Process](approval-process.md)
 - [Validation Rules](validation-rules.md)
+- [Sharing Rules](sharing-rules.md)
 
 
 
