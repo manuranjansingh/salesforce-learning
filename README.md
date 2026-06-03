@@ -23,6 +23,6 @@ Coming Soon
 - [Data Management](data-management.md)
 - [Profiles, Roles & Permission Sets](profiles-roles-permission-sets.md)
 - [Automation Basics](automation-basics.md)
-  
+- [Organization & Company Settings](organization-company-settings.md)  
 ## Projects
 Coming Soon
