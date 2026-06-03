@@ -25,5 +25,9 @@ Coming Soon
 - [Automation Basics](automation-basics.md)
 - [Organization & Company Settings](organization-company-settings.md)
 - [Approval Process](approval-process.md)
+- [Validation Rules](validation-rules.md)
+
+
+
 ## Projects
 Coming Soon
