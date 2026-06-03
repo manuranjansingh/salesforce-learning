@@ -19,6 +19,7 @@ Coming Soon
 - [Salesforce Fundamentals](salesforce-fundamentals.md)
 - [User Management](user-management.md)
 - [Security & Access](security-access.md)
+- [Reports & Dashboards](reports-dashboards.md)
   
 ## Projects
 Coming Soon
