@@ -21,6 +21,7 @@ Coming Soon
 - [Security & Access](security-access.md)
 - [Reports & Dashboards](reports-dashboards.md)
 - [Data Management](data-management.md)
+- [Profiles, Roles & Permission Sets](profiles-roles-permission-sets.md)
   
 ## Projects
 Coming Soon
