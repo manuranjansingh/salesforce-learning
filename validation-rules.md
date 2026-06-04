@@ -87,3 +87,16 @@ Phone Number is required.
 ## Summary
 
 Validation Rules help maintain data accuracy by preventing users from entering invalid information.
+
+## Hands-On Practice #1
+
+### Requirement
+
+Phone Number should be mandatory while creating an Account.
+
+### Validation Rule Created
+
+**Rule Name:** Phone_Mandatory
+
+**Formula:**
+
