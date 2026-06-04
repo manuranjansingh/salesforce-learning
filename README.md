@@ -28,11 +28,15 @@ Coming Soon
 - [Validation Rules](validation-rules.md)
 - [Sharing Rules](sharing-rules.md)
 - [Flow Builder Basics](flow-builder-basics.md)
+## Trailhead Progress
 
-
-
-## Projects
 - Salesforce Admin Certification: Completed
 - Salesforce Developer Org: Active
 - Hands-on Completed:
   - Validation Rule (Phone Mandatory)
+  - Validation Rule (Website Required)
+
+
+## Projects
+
+Coming Soon
