@@ -32,4 +32,7 @@ Coming Soon
 
 
 ## Projects
-Coming Soon
+- Salesforce Admin Certification: Completed
+- Salesforce Developer Org: Active
+- Hands-on Completed:
+  - Validation Rule (Phone Mandatory)
