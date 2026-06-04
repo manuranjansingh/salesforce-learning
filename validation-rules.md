@@ -99,4 +99,12 @@ Phone Number should be mandatory while creating an Account.
 **Rule Name:** Phone_Mandatory
 
 **Formula:**
+### Additional Practice
 
+#### Website_Required
+
+**Formula:** ISBLANK(Website)
+
+**Error Message:** Website is required.
+
+**Result:** Successfully tested in Salesforce Developer Org.
