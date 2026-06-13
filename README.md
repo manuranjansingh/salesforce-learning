@@ -1,42 +1,119 @@
-# Salesforce Learning
+# Salesforce Admin Journey
 
 ## About
-This repository contains my Salesforce learning notes, Trailhead progress, and hands-on practice.
 
-## Topics
-- Salesforce Fundamentals
-- CRM Concepts
-- User Management
-- Security & Access
-- Reports & Dashboards
-- Data Management
+This repository documents my Salesforce Administrator learning journey through hands-on practice, notes, automation exercises, Trailhead modules, and mini-projects.
 
-## Trailhead Progress
-Coming Soon
+The goal is to build practical Salesforce Administration skills and prepare for real-world Salesforce Admin responsibilities.
 
-## Notes
+---
 
-- [Salesforce Fundamentals](salesforce-fundamentals.md)
-- [User Management](user-management.md)
-- [Security & Access](security-access.md)
-- [Reports & Dashboards](reports-dashboards.md)
-- [Data Management](data-management.md)
-- [Profiles, Roles & Permission Sets](profiles-roles-permission-sets.md)
-- [Automation Basics](automation-basics.md)
-- [Organization & Company Settings](organization-company-settings.md)
-- [Approval Process](approval-process.md)
-- [Validation Rules](validation-rules.md)
-- [Sharing Rules](sharing-rules.md)
-- [Flow Builder Basics](flow-builder-basics.md)
-## Trailhead Progress
+## Learning Roadmap
 
-- Salesforce Admin Certification: Completed
-- Salesforce Developer Org: Active
-- Hands-on Completed:
-  - Validation Rule (Phone Mandatory)
-  - Validation Rule (Website Required)
+### Completed
 
+* Objects & Records
+* Validation Rules
+* Flows
 
-## Projects
+### In Progress
 
-Coming Soon
+* Reports & Dashboards
+* Email Automation
+* Profile vs Role
+* Permission Sets
+
+### Upcoming
+
+* Page Layouts
+* Formula Fields
+* Record Types
+* Approval Processes
+* User Management
+* OWD & Sharing Rules
+* Data Management
+* Flow Mastery
+* Mini Project
+
+---
+
+## Current Progress
+
+* [x] Objects & Records
+* [x] Validation Rules
+* [x] Flows
+* [ ] Reports & Dashboards
+* [ ] Email Automation
+* [ ] Profile vs Role
+* [ ] Permission Sets
+* [ ] Page Layouts
+* [ ] Formula Fields
+* [ ] Record Types
+* [ ] Approval Processes
+* [ ] User Management
+* [ ] OWD & Sharing Rules
+* [ ] Data Management
+* [ ] Flow Mastery
+* [ ] Mini Project
+
+---
+
+## Repository Structure
+
+```text
+salesforce-admin-journey/
+
+README.md
+
+notes/
+├── 01-Objects-and-Records.md
+├── 02-Validation-Rules.md
+├── 03-Flows.md
+```
+
+---
+
+## Topics Covered
+
+### Salesforce Fundamentals
+
+* Objects
+* Fields
+* Records
+* Standard Objects
+* Custom Objects
+
+### Automation
+
+* Validation Rules
+* Flow Builder
+* Email Alerts
+* Email Templates
+
+### Security & Access
+
+* Profiles
+* Roles
+* Permission Sets
+* Sharing Rules
+
+### Analytics
+
+* Reports
+* Dashboards
+
+### Data Management
+
+* Import
+* Export
+* Data Quality
+
+---
+
+## Goal
+
+Build strong Salesforce Administration skills through practical learning, hands-on configuration, and project-based implementation.
+
+---
+
+Learning by Doing 🚀
