@@ -108,3 +108,37 @@ Phone Number should be mandatory while creating an Account.
 **Error Message:** Website is required.
 
 **Result:** Successfully tested in Salesforce Developer Org.
+
+## Hands-On Practice #2
+
+### Requirement
+Active customers must have an email address.
+
+### Object Created
+Customer__c
+
+### Fields
+- Customer Name
+- Email
+- Phone
+- Status
+
+### Validation Rule
+Active_Customer_Email_Required
+
+Formula:
+
+AND(
+ISPICKVAL(Status__c, "Active"),
+ISBLANK(Email__c)
+)
+
+### Error Message
+Email is mandatory for Active customers.
+
+### Test Result
+Status = Active
+Email = Blank
+
+Result:
+Salesforce prevented record creation successfully.
