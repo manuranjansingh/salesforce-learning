@@ -39,23 +39,25 @@ The goal is to build practical Salesforce Administration skills and prepare for 
 
 ## Current Progress
 
-* [x] Objects & Records
-* [x] Validation Rules
-* [x] Flows
-* [ ] Reports & Dashboards
-* [ ] Email Automation
-* [ ] Profile vs Role
-* [ ] Permission Sets
-* [ ] Page Layouts
-* [ ] Formula Fields
-* [ ] Record Types
-* [ ] Approval Processes
-* [ ] User Management
-* [ ] OWD & Sharing Rules
-* [ ] Data Management
-* [ ] Flow Mastery
-* [ ] Mini Project
+- [x] Objects & Records
+- [x] Validation Rules
+- [x] Flows
+- [ ] Reports & Dashboards
+- [ ] Email Automation
+- [ ] Profile vs Role
+- [ ] Permission Sets
+- [ ] Page Layouts
+- [ ] Formula Fields
+- [ ] Record Types
+- [ ] Approval Processes
+- [ ] User Management
+- [ ] OWD & Sharing Rules
+- [ ] Data Management
+- [ ] Flow Mastery
+- [ ] Mini Project
 
+### Completed Project
+- [x] Customer Management Automation Project
 ---
 
 ## Repository Structure
