@@ -108,6 +108,38 @@ notes/
 * Export
 * Data Quality
 
+
+## Projects
+
+### 1. Customer Management Automation
+
+**Objective:**
+Automatically create a follow-up task when a customer record is updated.
+
+**Features Implemented:**
+- Custom Customer Object
+- Status Tracking (Active/Inactive)
+- Record-Triggered Flow
+- Automatic Task Creation
+- Task Assignment to Record Owner
+
+**Flow Logic:**
+When a Customer record is updated, Salesforce automatically creates a Task with:
+
+- Subject: Follow Up With Customer
+- Status: Not Started
+- Priority: Normal
+- Assigned To: Customer Owner
+
+**Skills Used:**
+- Salesforce Flow Builder
+- Record-Triggered Flows
+- Task Automation
+- Object Relationships
+- Process Automation
+
+**Outcome:**
+Successfully automated customer follow-up task creation using Salesforce Flow Builder and verified task generation in the Task object.
 ---
 
 ## Goal
